@@ -11,5 +11,5 @@ unzip daynight-dataset.zip
 
 ```
 # Classifiers
-- CNN
 - Feature-based
+- CNN
