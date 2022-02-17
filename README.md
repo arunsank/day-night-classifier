@@ -10,3 +10,6 @@ kaggle datasets download -d stevemark/daynight-dataset
 unzip daynight-dataset.zip
 
 ```
+# Classifiers
+- CNN
+- Feature-based
